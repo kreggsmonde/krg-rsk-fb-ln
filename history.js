@@ -19,6 +19,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep2_20261029_024153.mp4",
     "thumbnail_file": "thumb_ep2_20261029_024153.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 3,
+    "topic": "Искусство быть собой рядом с любимым",
+    "date": "2026-10-29T08:17:19.575223",
+    "duration_sec": 1375.21,
+    "duration_min": 22.92,
+    "video_file": "podcast_ep3_20261029_075637.mp4",
+    "thumbnail_file": "thumb_ep3_20261029_075637.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
