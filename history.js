@@ -29,6 +29,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep3_20261029_075637.mp4",
     "thumbnail_file": "thumb_ep3_20261029_075637.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 4,
+    "topic": "Искусство доверять, когда страшно",
+    "date": "2026-10-30T08:12:08.366235",
+    "duration_sec": 1328.75,
+    "duration_min": 22.15,
+    "video_file": "podcast_ep4_20261030_075908.mp4",
+    "thumbnail_file": "thumb_ep4_20261030_075908.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
