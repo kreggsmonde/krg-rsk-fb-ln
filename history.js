@@ -49,6 +49,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep5_20261031_075442.mp4",
     "thumbnail_file": "thumb_ep5_20261031_075442.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 6,
+    "topic": "Искусство близости: как сохранить интимность в долгосрочных отношениях",
+    "date": "2026-11-01T08:58:47.025517",
+    "duration_sec": 1397.17,
+    "duration_min": 23.29,
+    "video_file": "podcast_ep6_20261101_083725.mp4",
+    "thumbnail_file": "thumb_ep6_20261101_083725.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
