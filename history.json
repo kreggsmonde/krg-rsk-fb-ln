@@ -68,5 +68,15 @@
     "video_file": "podcast_ep7_20261102_084639.mp4",
     "thumbnail_file": "thumb_ep7_20261102_084639.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 8,
+    "topic": "Искусство просить о нежности: как говорить, чтобы слышали",
+    "date": "2026-11-03T09:19:36.442315",
+    "duration_sec": 1375.79,
+    "duration_min": 22.93,
+    "video_file": "podcast_ep8_20261103_085657.mp4",
+    "thumbnail_file": "thumb_ep8_20261103_085657.jpg",
+    "platform": "Facebook"
   }
 ]
