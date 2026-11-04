@@ -78,5 +78,15 @@
     "video_file": "podcast_ep8_20261103_085657.mp4",
     "thumbnail_file": "thumb_ep8_20261103_085657.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 9,
+    "topic": "Искусство отпускать обиды: возвращать близость без наказаний",
+    "date": "2026-11-04T08:50:19.730573",
+    "duration_sec": 1367.29,
+    "duration_min": 22.79,
+    "video_file": "podcast_ep9_20261104_082917.mp4",
+    "thumbnail_file": "thumb_ep9_20261104_082917.jpg",
+    "platform": "Facebook"
   }
 ]
