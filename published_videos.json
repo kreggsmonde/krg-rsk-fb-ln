@@ -88,5 +88,15 @@
     "video_file": "podcast_ep9_20261104_082917.mp4",
     "thumbnail_file": "thumb_ep9_20261104_082917.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 10,
+    "topic": "Искусство тёплых разговоров: как обсуждать сложное без холодной защиты",
+    "date": "2026-11-05T09:14:38.062670",
+    "duration_sec": 1400.36,
+    "duration_min": 23.34,
+    "video_file": "podcast_ep10_20261105_085338.mp4",
+    "thumbnail_file": "thumb_ep10_20261105_085338.jpg",
+    "platform": "Facebook"
   }
 ]
