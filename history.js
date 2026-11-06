@@ -99,6 +99,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep10_20261105_085338.mp4",
     "thumbnail_file": "thumb_ep10_20261105_085338.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 11,
+    "topic": "Искусство успокаивать друг друга: как снижать тревогу, а не раздувать её",
+    "date": "2026-11-06T09:06:12.304948",
+    "duration_sec": 1378.74,
+    "duration_min": 22.98,
+    "video_file": "podcast_ep11_20261106_085241.mp4",
+    "thumbnail_file": "thumb_ep11_20261106_085241.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
