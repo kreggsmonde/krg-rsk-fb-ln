@@ -108,5 +108,15 @@
     "video_file": "podcast_ep11_20261106_085241.mp4",
     "thumbnail_file": "thumb_ep11_20261106_085241.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 12,
+    "topic": "Искусство договариваться о границах и беречь нежность",
+    "date": "2026-11-07T08:34:04.546251",
+    "duration_sec": 1378.81,
+    "duration_min": 22.98,
+    "video_file": "podcast_ep12_20261107_081238.mp4",
+    "thumbnail_file": "thumb_ep12_20261107_081238.jpg",
+    "platform": "Facebook"
   }
 ]
