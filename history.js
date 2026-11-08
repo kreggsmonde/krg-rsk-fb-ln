@@ -119,6 +119,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep12_20261107_081238.mp4",
     "thumbnail_file": "thumb_ep12_20261107_081238.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 13,
+    "topic": "Искусство разговора без уколов: как спорить, не разрушая связь",
+    "date": "2026-11-08T08:50:43.819567",
+    "duration_sec": 1366.33,
+    "duration_min": 22.77,
+    "video_file": "podcast_ep13_20261108_082911.mp4",
+    "thumbnail_file": "thumb_ep13_20261108_082911.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
