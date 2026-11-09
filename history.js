@@ -129,6 +129,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep13_20261108_082911.mp4",
     "thumbnail_file": "thumb_ep13_20261108_082911.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 14,
+    "topic": "Искусство примирять близость и свободу: не терять себя в любви",
+    "date": "2026-11-09T09:20:09.943178",
+    "duration_sec": 1377.61,
+    "duration_min": 22.96,
+    "video_file": "podcast_ep14_20261109_085914.mp4",
+    "thumbnail_file": "thumb_ep14_20261109_085914.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
