@@ -149,6 +149,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep15_20261110_091128.mp4",
     "thumbnail_file": "thumb_ep15_20261110_091128.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 16,
+    "topic": "Искусство устойчивой близости: как переживать дистанцию, не теряя себя",
+    "date": "2026-11-11T09:01:28.568914",
+    "duration_sec": 1378.76,
+    "duration_min": 22.98,
+    "video_file": "podcast_ep16_20261111_084614.mp4",
+    "thumbnail_file": "thumb_ep16_20261111_084614.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
