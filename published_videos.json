@@ -158,5 +158,15 @@
     "video_file": "podcast_ep16_20261111_084614.mp4",
     "thumbnail_file": "thumb_ep16_20261111_084614.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 17,
+    "topic": "Искусство начинать разговор первым: как просить близость без страха отказа",
+    "date": "2026-11-12T09:22:42.626185",
+    "duration_sec": 1368.35,
+    "duration_min": 22.81,
+    "video_file": "podcast_ep17_20261112_090836.mp4",
+    "thumbnail_file": "thumb_ep17_20261112_090836.jpg",
+    "platform": "Facebook"
   }
 ]
