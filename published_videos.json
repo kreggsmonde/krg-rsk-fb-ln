@@ -168,5 +168,15 @@
     "video_file": "podcast_ep17_20261112_090836.mp4",
     "thumbnail_file": "thumb_ep17_20261112_090836.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 18,
+    "topic": "Искусство безопасной уязвимости: как говорить о чувствах, не теряя опоры",
+    "date": "2026-11-13T09:19:43.471342",
+    "duration_sec": 1352.24,
+    "duration_min": 22.54,
+    "video_file": "podcast_ep18_20261113_090000.mp4",
+    "thumbnail_file": "thumb_ep18_20261113_090000.jpg",
+    "platform": "Facebook"
   }
 ]
