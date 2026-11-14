@@ -178,5 +178,15 @@
     "video_file": "podcast_ep18_20261113_090000.mp4",
     "thumbnail_file": "thumb_ep18_20261113_090000.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 19,
+    "topic": "Искусство просить о поддержке: как быть рядом и не тянуть всё самой",
+    "date": "2026-11-14T08:42:09.376636",
+    "duration_sec": 1353.35,
+    "duration_min": 22.56,
+    "video_file": "podcast_ep19_20261114_082932.mp4",
+    "thumbnail_file": "thumb_ep19_20261114_082932.jpg",
+    "platform": "Facebook"
   }
 ]
