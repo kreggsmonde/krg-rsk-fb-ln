@@ -189,6 +189,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep19_20261114_082932.mp4",
     "thumbnail_file": "thumb_ep19_20261114_082932.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 20,
+    "topic": "Искусство нежной просьбы о близости: как снизить страх отказа и сохранить тепло",
+    "date": "2026-11-15T09:01:45.408477",
+    "duration_sec": 1359.99,
+    "duration_min": 22.67,
+    "video_file": "podcast_ep20_20261115_084445.mp4",
+    "thumbnail_file": "thumb_ep20_20261115_084445.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
