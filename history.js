@@ -209,6 +209,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep21_20261116_085548.mp4",
     "thumbnail_file": "thumb_ep21_20261116_085548.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 22,
+    "topic": "Искусство обсуждать страхи без обвинений: как говорить о тревоге и оставаться рядом",
+    "date": "2026-11-17T10:24:27.511371",
+    "duration_sec": 1370.03,
+    "duration_min": 22.83,
+    "video_file": "podcast_ep22_20261117_100229.mp4",
+    "thumbnail_file": "thumb_ep22_20261117_100229.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
