@@ -219,6 +219,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep22_20261117_100229.mp4",
     "thumbnail_file": "thumb_ep22_20261117_100229.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 23,
+    "topic": "Искусство ремонтировать паузы: как возвращать тепло после холодного молчания",
+    "date": "2026-11-18T09:57:35.528189",
+    "duration_sec": 1393.45,
+    "duration_min": 23.22,
+    "video_file": "podcast_ep23_20261118_093938.mp4",
+    "thumbnail_file": "thumb_ep23_20261118_093938.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
