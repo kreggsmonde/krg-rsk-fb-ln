@@ -228,5 +228,15 @@
     "video_file": "podcast_ep23_20261118_093938.mp4",
     "thumbnail_file": "thumb_ep23_20261118_093938.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 24,
+    "topic": "Искусство просить о разговоре вовремя: как не копить и не взрываться",
+    "date": "2026-11-19T10:14:31.052403",
+    "duration_sec": 1374.32,
+    "duration_min": 22.91,
+    "video_file": "podcast_ep24_20261119_095147.mp4",
+    "thumbnail_file": "thumb_ep24_20261119_095147.jpg",
+    "platform": "Facebook"
   }
 ]
