@@ -239,6 +239,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep24_20261119_095147.mp4",
     "thumbnail_file": "thumb_ep24_20261119_095147.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 25,
+    "topic": "Искусство нежных границ в переписке: как не терять тепло и не накручивать себя",
+    "date": "2026-11-20T09:54:17.956242",
+    "duration_sec": 1295.56,
+    "duration_min": 21.59,
+    "video_file": "podcast_ep25_20261120_093420.mp4",
+    "thumbnail_file": "thumb_ep25_20261120_093420.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
