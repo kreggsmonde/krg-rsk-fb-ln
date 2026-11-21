@@ -249,6 +249,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep25_20261120_093420.mp4",
     "thumbnail_file": "thumb_ep25_20261120_093420.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 26,
+    "topic": "Искусство договариваться о близости в разные периоды: как не терять “мы”",
+    "date": "2026-11-21T09:27:23.132923",
+    "duration_sec": 1376.53,
+    "duration_min": 22.94,
+    "video_file": "podcast_ep26_20261121_090628.mp4",
+    "thumbnail_file": "thumb_ep26_20261121_090628.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
