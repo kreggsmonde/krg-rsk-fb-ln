@@ -259,6 +259,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep26_20261121_090628.mp4",
     "thumbnail_file": "thumb_ep26_20261121_090628.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 27,
+    "topic": "Искусство просить и принимать поддержку: как перестать тянуть всё самой",
+    "date": "2026-11-22T09:27:57.327251",
+    "duration_sec": 1371.8,
+    "duration_min": 22.86,
+    "video_file": "podcast_ep27_20261122_091427.mp4",
+    "thumbnail_file": "thumb_ep27_20261122_091427.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
