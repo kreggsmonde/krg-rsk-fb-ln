@@ -268,5 +268,15 @@
     "video_file": "podcast_ep27_20261122_091427.mp4",
     "thumbnail_file": "thumb_ep27_20261122_091427.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 28,
+    "topic": "Искусство спорить о важном так, чтобы не терять “мы”",
+    "date": "2026-11-23T10:26:47.325699",
+    "duration_sec": 1358.91,
+    "duration_min": 22.65,
+    "video_file": "podcast_ep28_20261123_101124.mp4",
+    "thumbnail_file": "thumb_ep28_20261123_101124.jpg",
+    "platform": "Facebook"
   }
 ]
