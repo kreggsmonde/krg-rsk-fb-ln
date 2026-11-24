@@ -278,5 +278,15 @@
     "video_file": "podcast_ep28_20261123_101124.mp4",
     "thumbnail_file": "thumb_ep28_20261123_101124.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 29,
+    "topic": "Искусство нежного “приближения”: как просить близость, не требуя",
+    "date": "2026-11-24T12:18:26.659668",
+    "duration_sec": 1402.31,
+    "duration_min": 23.37,
+    "video_file": "podcast_ep29_20261124_115616.mp4",
+    "thumbnail_file": "thumb_ep29_20261124_115616.jpg",
+    "platform": "Facebook"
   }
 ]
