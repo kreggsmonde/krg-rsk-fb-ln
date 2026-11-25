@@ -289,6 +289,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep29_20261124_115616.mp4",
     "thumbnail_file": "thumb_ep29_20261124_115616.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 30,
+    "topic": "Искусство просить «побыть со мной» без требований",
+    "date": "2026-11-25T11:11:03.767385",
+    "duration_sec": 1425.52,
+    "duration_min": 23.76,
+    "video_file": "podcast_ep30_20261125_104832.mp4",
+    "thumbnail_file": "thumb_ep30_20261125_104832.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
