@@ -299,6 +299,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep30_20261125_104832.mp4",
     "thumbnail_file": "thumb_ep30_20261125_104832.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 31,
+    "topic": "Искусство ясного “я” в паре: как говорить о себе, не разрушая любовь",
+    "date": "2026-11-26T10:39:34.144184",
+    "duration_sec": 1321.81,
+    "duration_min": 22.03,
+    "video_file": "podcast_ep31_20261126_102715.mp4",
+    "thumbnail_file": "thumb_ep31_20261126_102715.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
