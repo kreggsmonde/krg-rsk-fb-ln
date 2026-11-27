@@ -309,6 +309,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep31_20261126_102715.mp4",
     "thumbnail_file": "thumb_ep31_20261126_102715.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 32,
+    "topic": "Искусство спокойной уверенности: как перестать доказывать любовь",
+    "date": "2026-11-27T10:44:27.061930",
+    "duration_sec": 1379.77,
+    "duration_min": 23.0,
+    "video_file": "podcast_ep32_20261127_102709.mp4",
+    "thumbnail_file": "thumb_ep32_20261127_102709.jpg",
+    "platform": "Local"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
