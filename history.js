@@ -319,6 +319,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep32_20261127_102709.mp4",
     "thumbnail_file": "thumb_ep32_20261127_102709.jpg",
     "platform": "Local"
+  },
+  {
+    "episode": 33,
+    "topic": "Искусство выбирать близость: как перестать уходить в холод и возвращаться к “мы”",
+    "date": "2026-11-28T10:04:13.415835",
+    "duration_sec": 1358.7,
+    "duration_min": 22.64,
+    "video_file": "podcast_ep33_20261128_094301.mp4",
+    "thumbnail_file": "thumb_ep33_20261128_094301.jpg",
+    "platform": "Local"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
